@@ -3,7 +3,7 @@
 ## 📃 Description
 A fully-functional, feature-filled JSON RESTful API for a tours company, with advanced authentication and authorisation, error handling, image upload, etc.
 
-*Did during a course...*
+*Did during a course and further enchanced upon...*
 
 ## 👩‍💻 Stack
 [![Technologies](https://skillicons.dev/icons?i=js,nodejs,expressjs,mongodb,aws&theme=dark)](https://skillicons.dev)
